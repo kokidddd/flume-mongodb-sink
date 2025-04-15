@@ -1,4 +1,4 @@
-# flume-mongosink
+# flume-mongodb-sink
 A MongoDB Sink for Apache Flume.
 
 ## Usage
